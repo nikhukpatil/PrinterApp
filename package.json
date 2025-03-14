@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "19.0.0",
-    "react-native": "0.78.0"
+    "react-native": "0.78.0",
+    "react-native-ble-plx": "^3.5.0",
+    "react-native-permissions": "^5.2.6",
+    "react-native-thermal-printer": "^2.3.6"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
